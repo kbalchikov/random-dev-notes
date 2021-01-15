@@ -1,7 +1,8 @@
 ---
+tags: [linux]
 title: ngrep
 created: '2020-10-12T19:26:12.823Z'
-modified: '2020-10-12T19:29:50.737Z'
+modified: '2021-01-15T18:08:09.981Z'
 ---
 
 # ngrep
